@@ -1,0 +1,114 @@
+Matricula_Aluno,Situacao_Atual,Desistencia_Real,Probabilidade_Churn,Predicao_Churn,Meses_na_Escola,Modalidade_Ensino,Valor_Mensalidade,Tipo_Contrato_Matricula,Forma_Pagamento_Mensalidade,Genero,Aluno_Bolsista,Participa_Atividade_Extra,Apoio_Psicopedagogico,Reforco_Escolar,Risco_de_Desistencia,Nivel_Risco,Ranking
+2545-EBUPK,Ativo,0,0.8650653839122133,1,2,Híbrido,84.05,Mensal,Boleto Digital,Female,Sim,Sim,Não,Não,72,CRÍTICO,1
+9629-NHXFW,Ativo,0,0.8485989639108025,1,1,EAD,19.4,Mensal,Boleto Impresso,Female,Não,Sim,Não se aplica,Não se aplica,72,CRÍTICO,2
+4090-KPJIP,Ativo,0,0.8387531031636263,1,3,Híbrido,74.95,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,70,CRÍTICO,3
+2262-SLNVK,Ativo,0,0.8354421423936895,1,1,Híbrido,70.1,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,74,CRÍTICO,4
+4445-ZJNMU,Ativo,0,0.8254168469512739,1,9,Híbrido,99.3,Mensal,Cartão de Crédito Recorrente,Male,Não,Sim,Não,Sim,69,CRÍTICO,5
+7394-LWLYN,Ativo,0,0.819429560596162,1,2,Híbrido,70.15,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,75,CRÍTICO,6
+1746-TGTWV,Ativo,0,0.8167724749218235,1,1,Híbrido,75.35,Mensal,Cartão de Crédito Recorrente,Male,Não,Sim,Não,Não,70,CRÍTICO,7
+3904-UKFRE,Ativo,0,0.816397213918899,1,4,Híbrido,80.1,Mensal,Boleto Digital,Male,Não,Sim,Sim,Não,67,CRÍTICO,8
+4929-XIHVW,Ativo,0,0.8150862080686953,1,2,Híbrido,95.5,Mensal,Cartão de Crédito Recorrente,Male,Sim,Sim,Não,Não,69,CRÍTICO,9
+5442-BHQNG,Ativo,0,0.8149167252053683,1,2,Híbrido,70.35,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,73,CRÍTICO,10
+5339-PXDVH,Ativo,0,0.8057188759992637,1,4,Híbrido,90.65,Mensal,Boleto Digital,Male,Não,Sim,Sim,Não,70,CRÍTICO,11
+1658-TJVOA,Ativo,0,0.7967691131104192,1,6,Híbrido,74.1,Mensal,Boleto Digital,Female,Sim,Sim,Sim,Não,79,ALTO,12
+8950-MTZNV,Ativo,0,0.7939195072992711,1,1,Presencial,44.95,Mensal,Boleto Impresso,Male,Não,Sim,Não,Não,75,ALTO,13
+4480-QQRHC,Ativo,0,0.793774044999312,1,8,Híbrido,74.05,Mensal,Débito Automático,Female,Sim,Sim,Não,Não,79,ALTO,14
+4029-HPFVY,Ativo,0,0.7921278526350563,1,3,Híbrido,70.3,Mensal,Boleto Impresso,Male,Não,Sim,Não,Não,67,ALTO,15
+0674-EYYZV,Ativo,0,0.7878696506697783,1,1,Presencial,54.65,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,74,ALTO,16
+3320-VEOYC,Ativo,0,0.7835771486376172,1,14,Híbrido,95.6,Mensal,Boleto Digital,Male,Sim,Sim,Não,Não,78,ALTO,17
+9214-EKVXR,Ativo,0,0.7834498915109216,1,1,Presencial,44.0,Mensal,Boleto Impresso,Female,Não,Sim,Não,Não,75,ALTO,18
+2984-AFWNC,Ativo,0,0.7763437735663946,1,3,Híbrido,95.4,Mensal,Boleto Digital,Female,Não,Sim,Não,Sim,70,ALTO,19
+8714-CTZJW,Ativo,0,0.7754290001737781,1,4,Híbrido,82.85,Mensal,Cartão de Crédito Recorrente,Female,Não,Sim,Não,Não,80,ALTO,20
+2674-MIAHT,Ativo,0,0.7729617761091755,1,4,Híbrido,80.3,Mensal,Boleto Impresso,Female,Não,Sim,Não,Sim,70,ALTO,21
+2688-BHGOG,Ativo,0,0.7724798508756312,1,9,Híbrido,79.55,Mensal,Boleto Digital,Male,Sim,Sim,Não,Não,76,ALTO,22
+2215-ZAFGX,Ativo,0,0.7702689209676967,1,9,Híbrido,85.5,Mensal,Boleto Digital,Male,Não,Sim,Não,Não,69,ALTO,23
+7994-UYIVZ,Ativo,0,0.7657127134455354,1,8,Híbrido,85.65,Mensal,Débito Automático,Male,Não,Sim,Não,Não,72,ALTO,24
+4847-TAJYI,Ativo,0,0.762658470135354,1,6,Híbrido,89.35,Mensal,Boleto Digital,Female,Sim,Sim,Não,Não,75,ALTO,25
+3199-XGZCY,Ativo,0,0.7616651370866343,1,8,Híbrido,75.25,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,74,ALTO,26
+7354-OIJLX,Ativo,0,0.7577046172568307,1,9,Híbrido,75.85,Mensal,Boleto Digital,Male,Não,Sim,Não,Não,70,ALTO,27
+5044-LRQAQ,Ativo,0,0.7542429481240162,1,7,Híbrido,69.2,Mensal,Débito Automático,Female,Não,Sim,Não,Não,73,ALTO,28
+3489-HHPFY,Ativo,0,0.7511760827875361,1,2,Híbrido,84.05,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,78,ALTO,29
+4854-CIDCF,Ativo,0,0.7452882555250466,1,3,Híbrido,73.85,Mensal,Boleto Digital,Female,Sim,Sim,Não,Não,74,ALTO,30
+2692-PFYTJ,Ativo,0,0.736202369975006,1,1,EAD,25.75,Mensal,Boleto Impresso,Female,Não,Sim,Não se aplica,Não se aplica,67,ALTO,31
+4299-SIMNS,Ativo,0,0.7361320526189453,1,9,Híbrido,81.15,Mensal,Boleto Digital,Male,Não,Sim,Sim,Não,68,ALTO,32
+2985-FMWYF,Ativo,0,0.7350361339239952,1,23,Híbrido,93.5,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,73,ALTO,33
+4291-SHSBH,Ativo,0,0.7330478627616002,1,7,Híbrido,69.55,Mensal,Boleto Digital,Male,Não,Sim,Não,Não,71,ALTO,34
+8873-GLDMH,Ativo,0,0.7325316837506125,1,6,Híbrido,73.85,Mensal,Boleto Impresso,Female,Não,Sim,Não,Não,76,ALTO,35
+7365-BVCJH,Ativo,0,0.7312433740639069,1,1,Presencial,24.4,Mensal,Boleto Digital,Male,Não,Não,Não,Não,66,ALTO,36
+3496-LFSZU,Ativo,0,0.7305589990366589,1,4,Híbrido,70.5,Mensal,Boleto Digital,Male,Não,Sim,Não,Não,68,ALTO,37
+0432-CAJZV,Ativo,0,0.7250719432687966,1,3,Híbrido,90.7,Mensal,Boleto Impresso,Male,Não,Sim,Não,Não,69,ALTO,38
+5119-NZPTV,Ativo,0,0.7235192172304175,1,2,Híbrido,70.1,Mensal,Boleto Digital,Male,Sim,Sim,Não,Não,74,ALTO,39
+2080-GKCWQ,Ativo,0,0.7234294773559639,1,2,Híbrido,74.95,Mensal,Boleto Digital,Male,Não,Sim,Não,Sim,76,ALTO,40
+9957-YODKZ,Ativo,0,0.7209483816603303,1,6,Híbrido,80.8,Mensal,Boleto Digital,Male,Sim,Sim,Não,Não,68,ALTO,41
+0196-JTUQI,Ativo,0,0.7195116947058916,1,9,Híbrido,75.2,Mensal,Cartão de Crédito Recorrente,Female,Não,Sim,Não,Não,68,ALTO,42
+0899-LIIBW,Ativo,0,0.7148921767131036,1,34,Híbrido,100.85,Mensal,Boleto Digital,Male,Não,Sim,Não,Não,76,ALTO,43
+8778-LMWTJ,Ativo,0,0.7129131568681244,1,9,Híbrido,74.85,Mensal,Boleto Digital,Female,Não,Sim,Sim,Não,66,ALTO,44
+9552-TGUZV,Ativo,0,0.7127251935716792,1,8,Híbrido,75.0,Mensal,Boleto Impresso,Male,Não,Sim,Sim,Não,80,ALTO,45
+4813-HQMGZ,Ativo,0,0.7114868770802513,1,8,Híbrido,90.25,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,76,ALTO,46
+2809-ZMYOQ,Ativo,0,0.711208118515168,1,32,Híbrido,101.35,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,72,ALTO,47
+0365-BZUWY,Ativo,0,0.7075787938205919,1,17,Híbrido,102.55,Mensal,Boleto Digital,Male,Não,Sim,Não,Sim,75,ALTO,48
+0958-YHXGP,Ativo,0,0.7075369801127647,1,7,Híbrido,69.9,Mensal,Boleto Impresso,Female,Não,Sim,Não,Não,80,ALTO,49
+6833-JMZYP,Ativo,0,0.7066476165763025,1,15,Híbrido,94.0,Mensal,Cartão de Crédito Recorrente,Female,Não,Sim,Não,Não,77,ALTO,50
+7426-RHZGU,Ativo,0,0.7024428845301347,1,9,Híbrido,95.9,Mensal,Débito Automático,Male,Não,Sim,Não,Não,66,ALTO,51
+1028-FFNJK,Ativo,0,0.6958765633142234,1,30,Híbrido,101.5,Mensal,Boleto Digital,Male,Sim,Sim,Não,Não,73,ALTO,52
+1226-IENZN,Ativo,0,0.695196829148225,1,16,Híbrido,78.75,Mensal,Boleto Digital,Male,Sim,Sim,Não,Não,74,ALTO,53
+8132-YPVBX,Ativo,0,0.691014549900476,1,6,Híbrido,85.95,Mensal,Boleto Impresso,Female,Não,Sim,Não,Sim,80,ALTO,54
+8035-PWSEV,Ativo,0,0.6895877522036392,1,6,Híbrido,89.25,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,76,ALTO,55
+0988-JRWWP,Ativo,0,0.6863505765496904,1,3,Presencial,54.2,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,68,ALTO,56
+9360-OMDZZ,Ativo,0,0.6861004055014893,1,24,Híbrido,94.1,Mensal,Boleto Digital,Male,Não,Sim,Não,Não,69,ALTO,57
+4195-NZGTA,Ativo,0,0.6858745020954174,1,1,Presencial,25.25,Mensal,Boleto Digital,Female,Não,Não,Não,Não,73,ALTO,58
+4146-SVFUD,Ativo,0,0.6840344895964485,1,1,Presencial,44.6,Mensal,Boleto Impresso,Male,Não,Sim,Não,Não,77,ALTO,59
+5035-BVCXS,Ativo,0,0.6818434933567066,1,11,Híbrido,75.9,Mensal,Boleto Impresso,Male,Não,Sim,Não,Sim,70,ALTO,60
+7928-VJYAB,Ativo,0,0.6799492555856352,1,11,Híbrido,90.6,Mensal,Boleto Digital,Male,Não,Sim,Não,Não,65,ALTO,61
+5348-CAGXB,Ativo,0,0.6782882084954002,1,12,Híbrido,89.55,Mensal,Boleto Digital,Male,Não,Sim,Não,Não,79,ALTO,62
+3466-RITXD,Ativo,0,0.6764960486033936,1,26,Híbrido,92.4,Mensal,Cartão de Crédito Recorrente,Male,Não,Sim,Sim,Sim,75,ALTO,63
+6729-GDNGC,Ativo,0,0.6743713237268125,1,20,Híbrido,80.7,Mensal,Débito Automático,Female,Sim,Sim,Não,Não,73,ALTO,64
+2103-ZRXFN,Ativo,0,0.6740092189592929,1,1,Presencial,50.75,Mensal,Boleto Impresso,Male,Não,Sim,Não,Não,69,ALTO,65
+2135-DQWAQ,Ativo,0,0.6733398855479628,1,5,Híbrido,85.3,Mensal,Boleto Impresso,Female,Não,Sim,Não,Sim,67,ALTO,66
+3422-GALYP,Ativo,0,0.6685356957060737,1,2,Híbrido,79.45,Mensal,Boleto Digital,Male,Não,Sim,Não,Sim,65,ALTO,67
+5858-EAFCZ,Ativo,0,0.6650928051507741,1,1,Presencial,44.45,Mensal,Boleto Impresso,Male,Não,Sim,Não,Não,74,ALTO,68
+9208-OLGAQ,Ativo,0,0.6645737555272202,1,18,Híbrido,84.95,Mensal,Boleto Digital,Female,Sim,Sim,Não,Não,74,ALTO,69
+5879-SESNB,Ativo,0,0.6625948180910269,1,11,Híbrido,75.25,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,75,ALTO,70
+9643-AVVWI,Ativo,0,0.6612954685164606,1,3,Híbrido,80.0,Mensal,Boleto Digital,Female,Não,Sim,Não,Sim,76,ALTO,71
+4884-ZTHVF,Ativo,0,0.6601896834376202,1,8,Híbrido,87.1,Mensal,Boleto Digital,Female,Sim,Sim,Não,Sim,65,ALTO,72
+4686-UXDML,Ativo,0,0.6598846947468566,1,21,Híbrido,99.85,Mensal,Cartão de Crédito Recorrente,Female,Não,Sim,Não,Sim,74,ALTO,73
+0480-BIXDE,Ativo,0,0.6541627990690264,1,19,Híbrido,96.8,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,66,ALTO,74
+4559-UWIHT,Ativo,0,0.6541592048152226,1,14,Híbrido,82.65,Mensal,Boleto Digital,Male,Não,Sim,Não,Sim,79,ALTO,75
+7517-LDMPS,Ativo,0,0.6512593002127295,1,12,Híbrido,84.6,Mensal,Boleto Digital,Female,Não,Sim,Não,Sim,75,ALTO,76
+9927-DSWDF,Ativo,0,0.64963251800899,1,22,Híbrido,104.6,Mensal,Boleto Digital,Male,Não,Sim,Sim,Sim,68,ALTO,77
+8875-AKBYH,Ativo,0,0.6443406966247682,1,20,Híbrido,84.35,Mensal,Boleto Digital,Male,Sim,Sim,Não,Não,70,ALTO,78
+9129-UXERG,Ativo,0,0.643883646744348,1,18,Híbrido,103.6,Mensal,Cartão de Crédito Recorrente,Female,Sim,Sim,Não,Sim,73,ALTO,79
+0670-KDOMA,Ativo,0,0.641345040101583,1,1,EAD,20.25,Mensal,Boleto Impresso,Female,Não,Sim,Não se aplica,Não se aplica,69,ALTO,80
+8709-KRDVL,Ativo,0,0.6401263706271252,1,33,Híbrido,100.0,Mensal,Boleto Digital,Female,Não,Sim,Não,Sim,76,ALTO,81
+5351-QESIO,Ativo,0,0.6394040132310136,1,1,Presencial,24.2,Mensal,Boleto Impresso,Male,Não,Não,Não,Não,80,ALTO,82
+0147-ESWWR,Ativo,0,0.6391704887809786,1,39,Híbrido,101.25,Mensal,Boleto Digital,Female,Sim,Sim,Não,Não,77,ALTO,83
+9840-EFJQB,Ativo,0,0.6378636524193984,1,1,Híbrido,74.35,Mensal,Boleto Digital,Female,Não,Sim,Não,Sim,80,ALTO,84
+1508-DFXCU,Ativo,0,0.6371547285646763,1,12,Híbrido,81.45,Mensal,Boleto Digital,Male,Não,Sim,Não,Não,70,ALTO,85
+9272-LSVYH,Ativo,0,0.6345323886918466,1,10,Híbrido,70.15,Mensal,Boleto Impresso,Male,Não,Sim,Não,Não,78,ALTO,86
+1391-UBDAR,Ativo,0,0.6343346452465172,1,11,Híbrido,72.9,Mensal,Boleto Digital,Male,Não,Sim,Não,Não,71,ALTO,87
+9094-AZPHK,Ativo,0,0.6339589661868517,1,15,Híbrido,100.15,Mensal,Boleto Digital,Female,Não,Sim,Não,Sim,65,ALTO,88
+1346-UFHAX,Ativo,0,0.6337777315633087,1,13,Híbrido,80.0,Mensal,Cartão de Crédito Recorrente,Female,Não,Sim,Sim,Não,78,ALTO,89
+7181-OQCUT,Ativo,0,0.6333185678412979,1,21,Híbrido,103.85,Mensal,Boleto Impresso,Male,Não,Sim,Sim,Não,77,ALTO,90
+8212-DJRCH,Ativo,0,0.6329309016094734,1,5,Híbrido,90.35,Mensal,Boleto Impresso,Male,Não,Sim,Sim,Não,66,ALTO,91
+6583-KQJLK,Ativo,0,0.6318225958564192,1,15,Híbrido,94.65,Mensal,Boleto Digital,Female,Sim,Sim,Não,Sim,70,ALTO,92
+7129-ACFOG,Ativo,0,0.6315283730121642,1,5,Presencial,53.8,Mensal,Boleto Digital,Female,Não,Sim,Sim,Não,78,ALTO,93
+4553-DVPZG,Ativo,0,0.6296562054911007,1,62,Híbrido,101.35,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,77,ALTO,94
+9121-PHQSR,Ativo,0,0.6276933501237104,1,16,Híbrido,85.05,Mensal,Cartão de Crédito Recorrente,Male,Sim,Sim,Não,Não,80,ALTO,95
+2603-HVKCG,Ativo,0,0.6234743235040645,1,31,Híbrido,101.4,Mensal,Boleto Digital,Male,Não,Sim,Não,Sim,72,ALTO,96
+3317-VLGQT,Ativo,0,0.623296227949528,1,14,Híbrido,78.1,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,68,ALTO,97
+6175-IRFIT,Ativo,0,0.6223911770300206,1,5,Híbrido,78.75,Mensal,Boleto Impresso,Male,Não,Sim,Não,Não,66,ALTO,98
+7315-WYOAW,Ativo,0,0.6223135527818939,1,13,Híbrido,100.75,Mensal,Boleto Digital,Male,Não,Sim,Não,Não,80,ALTO,99
+8107-KNCIM,Ativo,0,0.6205460310713509,1,14,Híbrido,75.1,Mensal,Boleto Digital,Male,Sim,Sim,Não,Não,66,ALTO,100
+0674-DGMAQ,Ativo,0,0.6184514730278522,1,32,Híbrido,93.5,Mensal,Boleto Digital,Male,Sim,Sim,Não,Sim,77,ALTO,101
+4026-SKKHW,Ativo,0,0.6181689678807003,1,3,Presencial,50.25,Mensal,Boleto Impresso,Male,Não,Sim,Não,Não,76,ALTO,102
+4223-WOZCM,Ativo,0,0.6170153690920981,1,2,Presencial,49.95,Mensal,Boleto Impresso,Male,Sim,Sim,Não,Não,78,ALTO,103
+2692-BUCFV,Ativo,0,0.6169355205828265,1,29,Híbrido,101.45,Mensal,Débito Automático,Male,Sim,Sim,Não,Sim,76,ALTO,104
+9903-LYSAB,Ativo,0,0.6157228005582113,1,18,Híbrido,73.15,Mensal,Boleto Digital,Male,Não,Sim,Não,Não,73,ALTO,105
+8620-RJPZN,Ativo,0,0.6140835875714283,1,1,EAD,20.7,Mensal,Boleto Digital,Female,Não,Sim,Não se aplica,Não se aplica,68,ALTO,106
+2203-GHNWN,Ativo,0,0.6134439986921849,1,24,Híbrido,79.65,Mensal,Boleto Impresso,Female,Não,Sim,Não,Não,72,ALTO,107
+7442-YGZFK,Ativo,0,0.6131028571274068,1,1,Presencial,49.8,Mensal,Cartão de Crédito Recorrente,Male,Não,Sim,Não,Não,79,ALTO,108
+6185-TASNN,Ativo,0,0.6092325051878961,1,1,Presencial,46.3,Mensal,Boleto Digital,Male,Sim,Sim,Não,Não,65,ALTO,109
+9773-PEQBZ,Ativo,0,0.6081091287649201,1,10,Híbrido,79.85,Mensal,Boleto Digital,Male,Não,Sim,Não,Sim,65,ALTO,110
+5453-AXEPF,Ativo,0,0.6057126488269289,1,17,Híbrido,80.5,Mensal,Débito Automático,Male,Não,Sim,Não,Sim,76,ALTO,111
+5129-JLPIS,Ativo,0,0.6052012709490671,1,25,Híbrido,105.5,Mensal,Boleto Digital,Male,Não,Sim,Sim,Não,75,ALTO,112
+7801-KICAO,Ativo,0,0.6038665360400615,1,18,Híbrido,74.15,Mensal,Boleto Digital,Female,Não,Sim,Não,Não,73,ALTO,113
