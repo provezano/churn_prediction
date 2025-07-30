@@ -1,16 +1,6 @@
 # 🎓 Predição de Churn de Alunos
 
-> **🚨 DESCOBERTA PRINCIPAL:** Conseguimos prever com **97.45% de precisão** quais alunos vão desistir, identif### 🚨 **Situação Atual Identificada (Base Real)**
-- **📊 Total de Alunos Analisados**: **5.634** estudantes na base completa
-- **✅ Alunos Ativos**: **4.139** estudantes (73.5%)
-- **❌ Alunos Desistentes**: **1.495** estudantes (26.54% taxa geral)
-- **💰 Mensalidade Média Desistentes**: R$ 74,86 vs R$ 61,34 (ativos)
-
-### 📞 Ação Comercial Baseada em Dados Reais
-- **🎯 Foco Primário**: Alunos com **1-3 meses** de permanência (55.95% risco)
-- **📋 Contratos Mensais**: **88.7%** dos desistentes têm contrato mensal
-- **💳 Boleto Digital**: **57.9%** dos desistentes usam esta forma de pagamento
-- **⏰ Timing Crítico**: **300 desistências** acontecem no **1º mês**o que **os primeiros 3 meses são críticos** para retenção estudantil.
+> **🚨 DESCOBERTA PRINCIPAL:** Conseguimos prever com **97.45% de precisão** quais alunos vão desistir, identificando que **os primeiros 3 meses são críticos** para retenção estudantil.
 
 ## ⚡ Principais Insights
 
@@ -168,11 +158,17 @@ Os arquivos em `data/output/` estão prontos para uso pela equipe comercial:
 
 ## 💼 Impacto Imediato para o Negócio
 
-### � **Situação Atual Identificada**
-- **📊 Total de Alunos Analisados**: 5.634 estudantes
-- **⚠️ Alunos em Risco CRÍTICO**: 89 estudantes (contato em 24h)
-- **🔶 Alunos em Risco ALTO**: 369 estudantes (contato em 1 semana)
-- **💰 Receita Mensal em Risco**: R$ 192.450 (risco crítico/alto)
+### 🚨 **Situação Atual Identificada (Base Real)**
+- **📊 Total de Alunos Analisados**: **5.634** estudantes na base completa
+- **✅ Alunos Ativos**: **4.139** estudantes (73.5%)
+- **❌ Alunos Desistentes**: **1.495** estudantes (26.54% taxa geral)
+- **� Mensalidade Média Desistentes**: R$ 74,86 vs R$ 61,34 (ativos)
+
+### 📞 Ação Comercial Baseada em Dados Reais
+- **🎯 Foco Primário**: Alunos com **1-3 meses** de permanência (55.95% risco)
+- **📋 Contratos Mensais**: **88.7%** dos desistentes têm contrato mensal
+- **� Boleto Digital**: **57.9%** dos desistentes usam esta forma de pagamento
+- **⏰ Timing Crítico**: **300 desistências** acontecem no **1º mês**
 
 ### 📞 Ação Comercial Imediata
 - **🎯 Prioridade 1**: Alunos com **1-3 meses** de permanência (maior taxa de risco)
