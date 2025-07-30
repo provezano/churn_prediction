@@ -28,12 +28,12 @@ Este projeto desenvolve um sistema completo de **predição de churn (evasão) d
 
 ## 🎯 Objetivos
 
-### Análise Exploratória (EDA)
+### Análise Exploratória (EDA) - notebooks/eda_churn_prediction.ipynb
 - Identificar padrões e fatores que influenciam a evasão estudantil
 - Analisar características demográficas, financeiras e comportamentais dos alunos
 - Descobrir insights estratégicos para retenção de alunos
 
-### Modelagem Preditiva
+### Modelagem Preditiva - notebooks/modeling_churn_predicton.ipynb
 - Construir modelos de machine learning para predição de churn
 - Comparar diferentes algoritmos com tunagem de hiperparâmetros
 - Gerar ranking de alunos por probabilidade de desistência
